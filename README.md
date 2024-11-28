@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-    <img width="200" src="https://cdn.discordapp.com/attachments/1266570127470760079/1311711089511104634/bd1b63db9c9898ac10190e016cd6e6cc.jpg?ex=6749d9a6&is=67488826&hm=0debbbe1c90e3bcd5380d8fe8c21c10c5bdde0b3b03edd9efb3b1f9595ba6dbd&" alt="Material Bread logo">
+    <img width="200" src="https://cdn.discordapp.com/attachments/1266570127470760079/1311713895697875004/Untitled630_20241128232208.png?ex=6749dc43&is=67488ac3&hm=7c2940188eec3579ee08040f71a864ffe3ef2654b670f042ebc76a704c73f05a&" alt="Material Bread logo">
 </p>
